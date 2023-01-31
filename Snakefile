@@ -1,4 +1,4 @@
-from zenodo_cache import ZenodoCache
+from snakemake_zenodo_cache import ZenodoCache
 
 cache = ZenodoCache("cache")
 
