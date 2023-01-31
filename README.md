@@ -1,0 +1,1 @@
+Zenodo caching for Snakemake. Based roughly on showyourwork.
